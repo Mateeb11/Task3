@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Store Data in Database</title>
+    
+</head>
+<style>
+    .container{
+        display: flex;
+        flex-direction: column;
+        margin-inline:auto;
+        margin-top: 3em;
+        max-width: min(100% , 40em);
+        gap: 2em;
+        border: 1px solid black;
+        padding: 1em;
+    }
+    button{
+        padding: 1em;
+        cursor: pointer;
+    }
+    input{
+        padding: 1em;
+    }
+    input::-webkit-outer-spin-button,
+    input::-webkit-inner-spin-button {
+        -webkit-appearance: none;
+        margin: 0;
+    }   
+    p{
+        text-align: center;
+    }
+</style>
+<body>
+    <div class="container">
+        <p>Set Sensor Value</p>
+        <input type="number" name="" id="input" placeholder="only numbers" value="0">
+        <button class="button">Send To Database</button>
+        <p>Go <a href="https://viewdata.web.app/" target="_blank">here</a> to see the value you stored in the Database</p>
+    </div>
+    <script src="bundle.js" ></script>
+    
+</body>
+</html>
