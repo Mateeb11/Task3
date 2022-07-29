@@ -15,4 +15,7 @@ This website is only for reading the sensor value from the database, if you chan
 # Demo
 https://user-images.githubusercontent.com/63017846/181755774-b2343391-8072-47f8-87f0-383a96520a7c.mp4
 
+# Note 
+The main that have the functional code is "dist/index.html" and "src/index.js"
+
 
