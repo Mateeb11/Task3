@@ -1,7 +1,7 @@
 # Database
 In this task, i used firebase database and firebase hosting to host the websites\
 the database have a sensor value that can be changed throw the website\
-If you want to view the database from the firebase website, just send to me the email that me to invite to the database\
+If you want to view the database from the firebase website, just send to me the email that you want me to invite to the database project\
 ![image](https://user-images.githubusercontent.com/63017846/181753686-cf75cabb-57ff-45e3-bcde-9fb68ddd9c67.png)
 
 
