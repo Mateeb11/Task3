@@ -10,3 +10,5 @@ Visit [here](https://database-aacbb.web.app/)
 # Get sensor value
 This website is only for reading the sensor value from the database, if you change the value from the "Set website", you can see the value [here](https://viewdata.web.app/#)
 
+# Demo
+https://user-images.githubusercontent.com/63017846/181755774-b2343391-8072-47f8-87f0-383a96520a7c.mp4
